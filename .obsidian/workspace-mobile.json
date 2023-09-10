@@ -8,111 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2457ee4f8dd36023",
+            "id": "f4f3fad050fd8d2a",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "50f1a408c0a40321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compose Terms And Conditions.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "193c1469d60085a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compose Privacy Policy.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb6fe443e5a140da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NetHub Releases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d34e3e15b92f3f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f3fad050fd8d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAPEH PRESENTATION SCRIPT - O_O.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4359df58d67518d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aa7a73fd8334d1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CO² EMISSIONS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "195a56f4d8fc1d84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CO² EMISSIONS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,8 +40,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#SLIDE8",
-            "matchingCase": false,
+            "query": "",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -178,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CO² EMISSIONS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CO² EMISSIONS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -206,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "CO² EMISSIONS.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -224,13 +123,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "195a56f4d8fc1d84",
+  "active": "840162d6dcc541c2",
   "lastOpenFiles": [
+    "MAPEH - REFLECTION PAPER.md",
+    "MAPEH PRESENTATION SCRIPT - O_O.md",
+    "MAPEH - PRESENTATION SCRIPT - O_O.md",
+    "ENGLISH - INTRODUCTION SCRIPT.md",
+    "FILIPINO - INTRODUCTION SCRIPT.md",
+    "ENGLISH - ESSAY CO² EMISSIONS.md",
+    "Compose Terms And Conditions.md",
+    "Compose/Compose Terms And Conditions.md",
+    "Compose/Compose Privacy Policy.md",
+    "Compose",
+    "ENGLISH ESSAY CO² EMISSIONS.md",
+    "MAPEH REFLECTION PAPER.md",
+    "ESP - PAKILALA NG CLASSMATE.md",
+    "FILIPINO INTRODUCTION SCRIPT.md",
+    "FILIPINO_INTRODUCTION_SCRIPT.md",
+    "NH_REL.md",
+    "Expt.md",
+    "INTRODUCTION SCRIPT.md",
+    "Untitled 2",
+    "dhhd.md",
+    "CO² EMISSIONS.md",
     "README.md",
     "Concerto Grosso Shit.md",
-    "MAPEH PRESENTATION SCRIPT - O_O.md",
-    "CO² EMISSIONS.md",
-    "Expt.md",
     "Gsbvrvwf.md",
     "Untitled 1",
     "Untitled",
@@ -239,9 +156,6 @@
     "Compose Privacy Policy.md",
     "5566508.tmp",
     "5566506.tmp",
-    "NetHub Releases.md",
-    "dhhd.md",
-    "Compose Terms And Conditions.md",
-    "Info Sec.md"
+    "NetHub Releases.md"
   ]
 }

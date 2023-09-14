@@ -1,0 +1,5 @@
+**Q1** - Ang lipunan ay isang grupo ng mga tao na namumuhay at nagtutulungan sa loob ng isang lugar o komunidad. Ito ay nagkakaroon ng mga sistemang panlipunan, kultura, gobyerno, at mga ugnayan sa pagitan ng mga indibidwal.
+
+**Q2** - Ang isang matiwasay na lipunan ay isang lipunan kung saan mayroong kaayusan, katahimikan, at katarungan. Ito ay maipapakita sa pamamagitan ng respeto sa karapatan ng bawat isa, pagtutulungan, at paraan para ma i-saayos ang mga problema. Ang pantay-pantay na karapatan, dignidad ng tao, at pagkakapantay-pantay ay mahalaga sa pagbuo ng ganitong uri ng lipunan.
+
+Ang napili ko ay isang puno, dahil kung pagod kana sa isang mainit na araw, pwede kang pumailalim sa silong ng isang puno at mag pahinga para kahit saglit man lang ay makaramdam ka ng katahimikan at kapayapaan.

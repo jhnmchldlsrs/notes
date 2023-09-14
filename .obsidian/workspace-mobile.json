@@ -11,11 +11,52 @@
             "id": "f4f3fad050fd8d2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ENGLISH - ESSAY CO² EMISSIONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05e87e7e42b60769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGLISH - ESSAY CO² EMISSIONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6b1d07a120cdf1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCIENEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e57d9bf45443e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCIENCE - PRESENTATION SCRIPT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "SCIENCE - PRESENTATION SCRIPT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "SCIENCE - PRESENTATION SCRIPT.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +150,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "SCIENCE - PRESENTATION SCRIPT.md"
+          }
         }
       }
     ],
@@ -123,21 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840162d6dcc541c2",
+  "active": "c1acd760b08b37b9",
   "lastOpenFiles": [
+    "SCIENEC.md",
+    "SCIENCE - PRESENTATION SCRIPT.md",
+    "ENGLISH - ESSAY CO² EMISSIONS.md",
+    "ESP - Ano ang lipunan.md",
     "MAPEH - REFLECTION PAPER.md",
+    "ESP - PAKILALA NG CLASSMATE.md",
     "MAPEH PRESENTATION SCRIPT - O_O.md",
     "MAPEH - PRESENTATION SCRIPT - O_O.md",
     "ENGLISH - INTRODUCTION SCRIPT.md",
     "FILIPINO - INTRODUCTION SCRIPT.md",
-    "ENGLISH - ESSAY CO² EMISSIONS.md",
     "Compose Terms And Conditions.md",
     "Compose/Compose Terms And Conditions.md",
     "Compose/Compose Privacy Policy.md",
     "Compose",
     "ENGLISH ESSAY CO² EMISSIONS.md",
     "MAPEH REFLECTION PAPER.md",
-    "ESP - PAKILALA NG CLASSMATE.md",
     "FILIPINO INTRODUCTION SCRIPT.md",
     "FILIPINO_INTRODUCTION_SCRIPT.md",
     "NH_REL.md",
@@ -152,10 +200,7 @@
     "Untitled 1",
     "Untitled",
     "Ttttymmynx djfo.md",
-    "().md",
-    "Compose Privacy Policy.md",
     "5566508.tmp",
-    "5566506.tmp",
-    "NetHub Releases.md"
+    "5566506.tmp"
   ]
 }

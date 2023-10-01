@@ -34,7 +34,7 @@
 
 > #SLIDE9`KEN` : Magandang umaga po.
 > `( PAHINGA KA SAGLIT PRE ( 1 SECOND ) )`
-> 
+> jj
 > Ano nga ba ang Fracture?
 > `( BASAHIN MO UNG NASA SCREEN )`
 
@@ -67,7 +67,7 @@
 > #LASTSLIDE `MICHAEL` : So wala na po tayong mga katanungan????
 > 
 > Yun po ang aming presentasyon
-> Maraming salamat at magandang hapon sa ating lahat.
+> Maraming salamat at muli magandang hapon sa ating lahat.
 
 
 
